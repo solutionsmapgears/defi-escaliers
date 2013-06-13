@@ -1,0 +1,136 @@
+var parcoursPoint = {
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ZID": 0, "ELEV": 0.0, "NOM": "Départ Super Défi et du Défi des escaliers de Québec 2012", "TYPE": "départ", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.241272, 46.788441 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ZID": 2, "ELEV": 0.0, "NOM": "Kilomètre 2", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.250053, 46.80072 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ZID": 3, "ELEV": 0.0, "NOM": "Escalier Joffre", "TYPE": "descente", "MARCHES": 144, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.250244, 46.800961 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ZID": 4, "ELEV": 0.0, "NOM": "Escalier de la Pente-Douce", "TYPE": "montée", "MARCHES": 133, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.243439, 46.802242 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ZID": 5, "ELEV": 0.0, "NOM": "Escalier du parc des Braves (entrée)", "TYPE": "montée", "MARCHES": 40, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.242966, 46.801956 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ZID": 6, "ELEV": 0.0, "NOM": "Escalier du parc des Braves (sortie)", "TYPE": "montée", "MARCHES": 18, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.241226, 46.800571 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ZID": 7, "ELEV": 0.0, "NOM": "Kilomètre 3", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.240952, 46.800594 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ZID": 8, "ELEV": 0.0, "NOM": "Kilomètre 4", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.233917, 46.805672 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ZID": 9, "ELEV": 0.0, "NOM": "Escalier des Franciscains", "TYPE": "descente", "MARCHES": 178, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.234245, 46.805946 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ZID": 10, "ELEV": 0.0, "NOM": "Escalier Victoria", "TYPE": "montée", "MARCHES": 139, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.231232, 46.807198 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ZID": 11, "ELEV": 0.0, "NOM": "Escalier de la passerelle", "TYPE": "descente", "MARCHES": 80, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.229881, 46.807747 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "ZID": 12, "ELEV": 0.0, "NOM": "Escalier Colbert", "TYPE": "montée", "MARCHES": 104, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.22937, 46.807842 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "ZID": 13, "ELEV": 0.0, "NOM": "Kilomètre 5", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.227249, 46.809906 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "ZID": 14, "ELEV": 0.0, "NOM": "Escalier Lavigueur", "TYPE": "montée", "MARCHES": 157, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.227119, 46.809769 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "ZID": 15, "ELEV": 0.0, "NOM": "Escalier Badelard", "TYPE": "descente", "MARCHES": 66, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.225044, 46.810627 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "ZID": 16, "ELEV": 0.0, "NOM": "Escalier du Faubourg", "TYPE": "montée", "MARCHES": 99, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.22303, 46.811935 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "ZID": 17, "ELEV": 0.0, "NOM": "Escalier de la Chapelle", "TYPE": "descente", "MARCHES": 80, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.220451, 46.812923 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "ZID": 18, "ELEV": 0.0, "NOM": "Escalier Lépine", "TYPE": "montée", "MARCHES": 118, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.218605, 46.81337 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "ZID": 19, "ELEV": 0.0, "NOM": "Kilomètre 6", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.218414, 46.813061 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "ZID": 20, "ELEV": 0.0, "NOM": "Escalier des Glacis", "TYPE": "descente", "MARCHES": 56, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.216118, 46.814255 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "ZID": 21, "ELEV": null, "NOM": "Kilomètre 7", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.208733, 46.816204 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "ZID": 22, "ELEV": 0.0, "NOM": "Escalier St-Flavien", "TYPE": "descente", "MARCHES": 30, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.207489, 46.816273 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "ZID": 23, "ELEV": null, "NOM": "Escalier du passage du Chien", "TYPE": "descente", "MARCHES": 14, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.203743, 46.815845 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "ZID": 26, "ELEV": 0.0, "NOM": "Escalier du Passage du roi", "TYPE": "montée", "MARCHES": 57, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.203079, 46.813107 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "ZID": 27, "ELEV": 0.0, "NOM": "Escalier du parc Montmorency", "TYPE": "montée", "MARCHES": 8, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.204521, 46.813553 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "ZID": 28, "ELEV": 0.0, "NOM": "Escalier Frontenac", "TYPE": "montée", "MARCHES": 95, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.204224, 46.813255 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "ZID": 29, "ELEV": 25.0, "NOM": "Kilomètre 8", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.204681, 46.812843 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "ZID": 30, "ELEV": 81.0, "NOM": "Escaliers de la Promenade des Gouverneurs", "TYPE": "montée", "MARCHES": 309, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.204193, 46.809158 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "ZID": 31, "ELEV": 81.0, "NOM": "Kilomètre 9", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.205933, 46.806553 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "ZID": 32, "ELEV": 81.0, "NOM": "Séparation du Super Défi (19 km) et du défi (13 km)", "TYPE": "séparation", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.211365, 46.807281 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "ZID": 33, "ELEV": 0.0, "NOM": "Escalier sud du Parlement", "TYPE": "descente", "MARCHES": 12, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213249, 46.808811 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "ZID": 34, "ELEV": 9.0, "NOM": "Escalier centra ldu Parlement", "TYPE": "montée", "MARCHES": 14, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213402, 46.80899 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "ZID": 35, "ELEV": 0.0, "NOM": "Escalier central du Parlement", "TYPE": "descente", "MARCHES": 14, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213676, 46.809151 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "ZID": 36, "ELEV": 0.0, "NOM": "Escalier nord du Parlement", "TYPE": "montée", "MARCHES": 12, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213875, 46.809296 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "ZID": 38, "ELEV": 0.0, "NOM": "Kilomètre 10", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213448, 46.810852 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "ZID": 37, "ELEV": 0.0, "NOM": "Escaliers Honoré Mercier-Dauphine", "TYPE": "descente", "MARCHES": 41, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.212936, 46.810085 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "ZID": 39, "ELEV": 0.0, "NOM": "Escalier du parc de l'artillerie", "TYPE": "escalier", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.212997, 46.81292 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "ZID": 40, "ELEV": 34.0, "NOM": "Escalier de la porte St-Jean (entrée)", "TYPE": "montée", "MARCHES": 78, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.213173, 46.812965 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "ZID": 41, "ELEV": 0.0, "NOM": "Escalier de la porte St-Jean (sortie)", "TYPE": "descente", "MARCHES": 5, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.212959, 46.812599 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "ZID": 42, "ELEV": 0.0, "NOM": "Escalier de la porte Kent (entrée)", "TYPE": "montée", "MARCHES": 50, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.212479, 46.812031 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "ZID": 43, "ELEV": 0.0, "NOM": "Escalier de la porte Kent (sortie)", "TYPE": "descente", "MARCHES": 4, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.212532, 46.81181 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "ZID": 44, "ELEV": 0.0, "NOM": "Escalier de la porte St-Louis", "TYPE": "descente", "MARCHES": 30, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.211327, 46.809624 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "ZID": 45, "ELEV": 0.0, "NOM": "Kilomètre 11", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.210388, 46.80827 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "ZID": 46, "ELEV": 0.0, "NOM": "Escalier des murs de la Citadelle", "TYPE": "descente", "MARCHES": 37, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.20472, 46.809155 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "ZID": 47, "ELEV": 0.0, "NOM": "Escalier St-Denis", "TYPE": "descente", "MARCHES": 12, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.205185, 46.809677 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "ZID": 48, "ELEV": 0.0, "NOM": "Escalier de la Terrasse", "TYPE": "descente", "MARCHES": 66, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.204895, 46.810093 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "ZID": 49, "ELEV": 41.0, "NOM": "Escalier du parc des Gouverneurs (entrée)", "TYPE": "montée", "MARCHES": 5, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.204819, 46.810802 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "ZID": 50, "ELEV": 0.0, "NOM": "Escalier du parc des Gouverneurs (sortie)", "TYPE": "montée", "MARCHES": 8, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.2062, 46.811058 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "ZID": 51, "ELEV": 0.0, "NOM": "Kilomètre 12", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.207153, 46.810822 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "ZID": 52, "ELEV": null, "NOM": "Escalier du parc du Cavalier du Moulin", "TYPE": "descente", "MARCHES": 40, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.20726, 46.810822 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "ZID": 53, "ELEV": 0.0, "NOM": "Escalier Charles-Baillargé", "TYPE": "descente", "MARCHES": 35, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.204628, 46.813374 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "ZID": 54, "ELEV": 5.0, "NOM": "Escalier Casse-Cou", "TYPE": "descente", "MARCHES": 59, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.203552, 46.812897 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "ZID": 55, "ELEV": 6.0, "NOM": "Escalier du Cul-de-Sac", "TYPE": "descente", "MARCHES": 28, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.203514, 46.81189 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "ZID": 56, "ELEV": 47.0, "NOM": "Escalier du Quai-du-Roi", "TYPE": "montée", "MARCHES": 32, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.203293, 46.811581 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "ZID": 57, "ELEV": 0.0, "NOM": "Kilomètre 13", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.203392, 46.810184 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "ZID": 58, "ELEV": 0.0, "NOM": "Kilomètre 14", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.209915, 46.802292 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "ZID": 59, "ELEV": 49.0, "NOM": "Escalier du Cap-Blanc", "TYPE": "montée", "MARCHES": 398, "superDefi": 1, "defi": 0 }, "geometry": { "type": "Point", "coordinates": [ -71.211884, 46.802238 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "ZID": 64, "ELEV": 0.0, "NOM": "Ligne d'arrivée", "TYPE": "arrivée", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.238808, 46.788132 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "ZID": 24, "ELEV": 0.0, "NOM": "Escalier du Musée", "TYPE": "montée", "MARCHES": 37, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.202866, 46.81501 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "ZID": 1, "ELEV": null, "NOM": "Kilomètre 1", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.246464329670047, 46.794106754506011 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "ZID": 25, "ELEV": null, "NOM": "Escalier du Musée", "TYPE": "descente", "MARCHES": 52, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.202196906419374, 46.815061674975219 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "ZID": 60, "ELEV": null, "NOM": "Kilomètre 15 (et km 10,5 du Défi)", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.217156638512051, 46.800112540210058 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "ZID": 61, "ELEV": null, "NOM": "Kilomètre 16 (et km 11,5 du Défi)", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.228165916827137, 46.794633381977775 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "ZID": 62, "ELEV": null, "NOM": "Kilomètre 17 (et km 12,5 du Défi)", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.238524165428899, 46.793224179227437 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "ZID": 63, "ELEV": null, "NOM": "Kilomètre 18 (et km 13,5 du Défi)", "TYPE": "checkpoint", "MARCHES": null, "superDefi": 1, "defi": 1 }, "geometry": { "type": "Point", "coordinates": [ -71.240774502568527, 46.789480458904123 ] } }
+
+]
+}

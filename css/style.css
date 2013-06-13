@@ -1,0 +1,50 @@
+html,
+body {
+	width: 100%;
+    height: 100%;
+    margin: -0.01%;
+}
+
+body {
+    font-family: "Lucida Grande", Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    color: #222;
+    background: #fff;
+    overflow: hidden;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin:5px;
+}
+
+#bouton {
+	bottom: 20px;
+    opacity: 1;
+    padding: 0px 10px 10px 0;
+    position: absolute;
+    left: 0;
+    z-index: 999;
+}
+
+#locate{
+    cursor: pointer;
+}
+
+#parcours {
+    top: 0;
+    padding: 0 10px 10px 0;
+    position: absolute;
+    right: 0;
+    z-index: 999;
+    width: 25%;
+}
+
+@media (max-width:640px) {
+    #parcours {
+        width: 50% !important;
+    }
+
+}
