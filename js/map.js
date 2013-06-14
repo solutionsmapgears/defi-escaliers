@@ -272,7 +272,7 @@ $(function() {
     };
 
 
-
+    $( "#dialog" ).dialog({ width: 500, title: "Défi des escaliers"});
 
 
 });
