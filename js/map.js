@@ -133,7 +133,27 @@ $(function() {
                     iconUrl: "./img/up.png",
                     iconSize: [20, 20]
                 });
-                return L.marker(latlng, {icon: myIcon})    
+                return L.marker(latlng, {icon: myIcon})   
+            } else if(feature.properties.TYPE == 'départ') { 
+                 var style= {
+                    "radius": 6,
+                    "fillColor": "#22ff22",
+                    "color": "#000",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillOpacity": 1
+                };
+                return L.circleMarker(latlng, style);
+            } else if(feature.properties.TYPE == 'arrivée') { 
+                 var style= {
+                    "radius": 6,
+                    "fillColor": "#ff2222",
+                    "color": "#000",
+                    "weight": 1,
+                    "opacity": 1,
+                    "fillOpacity": 1
+                };
+                return L.circleMarker(latlng, style);
             } else {
                 return L.circleMarker(latlng, projet.layers.escaliers.defaultStyle);
             
